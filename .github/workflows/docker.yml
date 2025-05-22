@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: devops/projet-docker:latest
+          tags: SygVarys/HCDA_demo_TP_docker:latest
