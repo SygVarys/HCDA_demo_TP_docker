@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: votre-utilisateur/projet-docker:latest
+          tags: devops/projet-docker:latest
